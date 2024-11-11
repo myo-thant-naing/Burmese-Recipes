@@ -1,0 +1,6 @@
+ <Link to="/recipes1">
+          <div className="bg-amber-100 w-72 h-48 rounded-lg shadow-lg  text-center p-4 flex items-center justify-center">
+            <h2 className="text-primary text-2xl"></h2>
+          </div>
+        </Link>
+       
